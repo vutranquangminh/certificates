@@ -10,16 +10,16 @@ These certificates reflect my continuous effort to build a strong foundation in 
 
 The CS50 program by Harvard is globally recognized for its academic rigor and real-world relevance. Through the following courses, I have explored a wide range of core computer science concepts and programming paradigms:
 
-- 🔹 [CS50’s Introduction to Programming with Scratch](certificates/cs50’s-introduction-to-programming-with-scratch/CS50’s Introduction to Programming with Scratch.pdf)  
+- 🔹 [CS50’s Introduction to Programming with Scratch](certificates/cs50’s-introduction-to-programming-with-scratch/CS50%E2%80%99s%20Introduction%20to%20Programming%20with%20Scratch.pdf)  
   An entry-level course that introduces fundamental programming concepts using the visual language Scratch, focusing on logic, loops, conditions, and abstraction.
 
-- 🔹 [CS50’s Introduction to Programming with Python](certificates/CS50-Python.pdf)  
+- 🔹 [CS50’s Introduction to Programming with Python](certificates/cs50’s-introduction-to-programming-with-python/cs50-python-certificate.pdf)  
   A continuation into text-based programming using Python, covering functions, file I/O, libraries, error handling, and modular code design.
 
-- 🔹 [CS50’s Introduction to Computer Science](certificates/CS50-Intro-CS.pdf)  
+- 🔹 [CS50’s Introduction to Computer Science](certificates/cs50’s-introduction-to-computer-science/cs50-intro-cs-certificate.pdf)  
   The flagship CS50 course, providing a deep dive into algorithms, data structures, memory, C programming, and the foundations of software engineering.
 
-- 🔹 [CS50’s Web Programming with Python and JavaScript](certificates/CS50-Web.pdf)  
+- 🔹 [CS50’s Web Programming with Python and JavaScript](certificates/cs50’s-web-programming-with-python-and-javascript/cs50-web-certificate.pdf)  
   An advanced course focusing on full-stack web development, including Flask, HTML, CSS, JavaScript, SQL, APIs, and modern web technologies such as Django and React.
 
 ---
@@ -28,7 +28,7 @@ The CS50 program by Harvard is globally recognized for its academic rigor and re
 
 Scrimba is a modern, interactive learning platform tailored for developers. I completed the following comprehensive career path:
 
-- 🔹 [The Frontend Developer Career Path](certificates/Scrimba-Frontend.pdf)  
+- 🔹 [The Frontend Developer Career Path](certificates/the-frontend-developer-career-path/scrimba-frontend-certificate.pdf)  
   A hands-on curriculum designed to prepare learners for professional frontend roles. It covered HTML, CSS, Flexbox, Grid, JavaScript (ES6+), DOM manipulation, asynchronous programming, React, accessibility, version control with Git, and building deployable projects.
 
 ---
