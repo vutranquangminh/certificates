@@ -39,7 +39,7 @@ These skills provide a solid introduction to computational thinking and are tran
 
 ## 📜 Certificate of Completion
 
-[🔗 View My CS50 Scratch Certificate](CS50’s%20Introduction%20to%20Programming%20with%20Scratch.pdf)
+[🔗 View My CS50 Scratch Certificate](cs50-introduction-to-programming-with-scratch-certificate.pdf)
 
 ---
 
