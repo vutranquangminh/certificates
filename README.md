@@ -10,7 +10,7 @@ These certificates reflect my continuous effort to build a strong foundation in 
 
 The CS50 program by Harvard is globally recognized for its academic rigor and real-world relevance. Through the following courses, I have explored a wide range of core computer science concepts and programming paradigms:
 
-- 🔹 [CS50’s Introduction to Programming with Scratch](certificates/cs50-introduction-to-programming-with-scratch/cs50-introduction-to-programming-with-scratch-certificate.pdf)  
+- 🔹 [CS50’s Introduction to Programming with Scratch](cs50-introduction-to-programming-with-scratch/cs50-introduction-to-programming-with-scratch-certificate.pdf)  
   An entry-level course that introduces fundamental programming concepts using the visual language Scratch, focusing on logic, loops, conditions, and abstraction.
 
 - 🔹 [CS50’s Introduction to Programming with Python](certificates/cs50’s-introduction-to-programming-with-python/cs50-python-certificate.pdf)  
