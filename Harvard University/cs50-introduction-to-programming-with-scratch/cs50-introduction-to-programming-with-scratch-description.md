@@ -1,4 +1,4 @@
-# 🎓 CS50 – Introduction to Programming with Scratch
+# **🎓 CS50 – Introduction to Programming with Scratch**
 
 This repository highlights my successful completion of **CS50’s Introduction to Programming with Scratch**, a beginner-level computer science course offered by **Harvard University** through edX/OpenCourseWare.
 

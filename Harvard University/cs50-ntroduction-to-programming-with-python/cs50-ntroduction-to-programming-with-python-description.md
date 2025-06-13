@@ -1,4 +1,4 @@
-🎓 **CS50’s Introduction to Programming with Python (CS50P)**  
+#🎓 **CS50’s Introduction to Programming with Python (CS50P)**  
 An introduction to programming using Python, a popular language for data science, web development, and more. Learn how to read, write, test, and debug code—perfect for beginners or those with some experience.
 
 ---
