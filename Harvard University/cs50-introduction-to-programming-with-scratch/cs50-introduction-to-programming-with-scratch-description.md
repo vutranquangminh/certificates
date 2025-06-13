@@ -56,5 +56,3 @@ These skills provide a solid introduction to computational thinking and are tran
 Completing this course strengthened my understanding of fundamental programming principles and gave me hands-on experience in algorithmic thinking, modular design, and interactive development. I highly recommend this course to anyone beginning their journey into computer science.
 
 ---
-
-Thank you for exploring my work! Feel free to connect, give feedback, or explore more of my projects. 🚀
