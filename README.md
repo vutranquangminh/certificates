@@ -28,7 +28,7 @@ The CS50 program by Harvard is globally recognized for its academic rigor and re
 
 Scrimba is a modern, interactive learning platform tailored for developers. I completed the following comprehensive career path:
 
-- 🔹 [The Frontend Developer Career Path](certificates/the-frontend-developer-career-path/scrimba-frontend-certificate.pdf)  
+- [The Frontend Developer Career Path](certificates/the-frontend-developer-career-path/scrimba-frontend-certificate.pdf)  
   A hands-on curriculum designed to prepare learners for professional frontend roles. It covered HTML, CSS, Flexbox, Grid, JavaScript (ES6+), DOM manipulation, asynchronous programming, React, accessibility, version control with Git, and building deployable projects.
 
 ---
@@ -46,3 +46,5 @@ I strive to use these skills to contribute to impactful projects, collaborate wi
 Feel free to browse my other repositories, explore my projects, or reach out for collaboration. I’m always open to new learning opportunities and challenges.
 
 > “Education is not the learning of facts, but the training of the mind to think.” – Albert Einstein
+
+---

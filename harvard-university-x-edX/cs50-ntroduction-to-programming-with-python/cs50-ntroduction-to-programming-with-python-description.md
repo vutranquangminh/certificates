@@ -58,3 +58,4 @@ This course strengthened my Python programming skills in areas such as:
 
 CS50P provided me with in-depth exposure to Python programming, bridging foundational logic and applied software practices. The exercises were practical, rigorous, and helped shape my coding habits to be clean, efficient, and reliable. This course has deepened my confidence to pursue advanced Python applications in development and data science.
 
+---
