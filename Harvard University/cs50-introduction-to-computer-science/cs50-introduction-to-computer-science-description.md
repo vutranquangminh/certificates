@@ -56,3 +56,5 @@ Throughout the course, I developed foundational skills in:
 ## 🏁 Reflection
 
 Completing CS50x was both intellectually challenging and rewarding. I learned to break down complex problems, understand the underlying mechanics of code, and apply theoretical knowledge to practical projects. This course has significantly strengthened my ability to learn new languages and build real applications with confidence.
+
+---

@@ -1,64 +1,61 @@
-🎓 **CS50’s Web Programming with Python and JavaScript (CS50W)**  
-This course picks up where CS50x leaves off, diving deeply into designing and implementing web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap. Topics include database design, scalability, security, and user experience. Through hands‑on projects, students learn to write and use APIs, build interactive UIs, and deploy to cloud platforms like GitHub and Heroku. By course end, you’ll have the skills to design, implement, and deploy real-world internet applications. :contentReference[oaicite:1]{index=1}
+# **🎓 CS50W – Web Programming with Python and JavaScript**
+
+This repository showcases my completion of **CS50’s Web Programming with Python and JavaScript**, an advanced-level course from **Harvard University**, designed to build real-world web development skills using powerful frameworks and modern tools.
 
 ---
 
-## 🧠 Course Overview  
-- **Duration:** 12 weeks  
-- **Commitment:** 6–9 hours per week :contentReference[oaicite:2]{index=2}  
-- **Difficulty:** Intermediate (CS50x or prior programming experience required) :contentReference[oaicite:3]{index=3}  
-- **Format:** Self‑paced, free audit with options for verified or academic credit :contentReference[oaicite:4]{index=4}
+## 🧠 Course Overview
+
+CS50W is the natural follow-up to CS50x, diving deeper into full-stack web development. It covers the fundamentals and best practices of web technologies, database integration, server-side and client-side programming, and scalable application design.
+
+**Duration**: 9 weeks (self-paced)  
+**Languages & Frameworks**: Python, JavaScript, SQL, HTML, CSS, Django, React, Bootstrap  
+**Final Requirement**: 6 hands-on projects, including a capstone final project
 
 ---
 
-## 🎯 What You’ll Learn  
-- **HTML & CSS** for structure and style  
-- **Version Control** with Git  
-- **Python** backend with Flask/Django  
-- **SQL, Models & Migrations**  
-- **JavaScript & Interactive UIs**  
-- **APIs** design and consumption  
-- **Testing, CI/CD, Scalability & Security**  
-- **Deployment** on GitHub, Heroku, and cloud services :contentReference[oaicite:5]{index=5}
+## 🎯 What I Learned
+
+Throughout the course, I gained hands-on experience with:
+
+- **HTML/CSS** – Structuring and styling web content  
+- **Git** – Version control and collaboration via GitHub  
+- **Python & Django** – Back-end development with authentication, routing, and models  
+- **SQL & Migrations** – Database schema design and data management  
+- **JavaScript** – Client-side scripting and interactivity  
+- **User Interfaces** – Building responsive and dynamic front-ends  
+- **Testing & CI/CD** – Writing tests and automating deployment  
+- **Security & Scalability** – Designing secure, scalable applications  
+- **APIs & Cloud Services** – Working with REST APIs, Heroku, and GitHub integration
 
 ---
 
-## 📈 Why It Matters  
-- Deepens CS50x foundation with full‑stack web dev  
-- Builds production‑grade apps, bridging theory and practice  
-- Teaches modern frameworks and tools widely used in industry  
-- Offers structured, project‑based learning with practical impact :contentReference[oaicite:6]{index=6}
+## 📈 Why It Matters
+
+- **Career-Ready Skills**: Practical tools used in professional development  
+- **Project-Based Learning**: Real applications built from scratch  
+- **End-to-End Understanding**: From database to frontend  
+- **Empowers Deployment**: Full-cycle development with deployment practices
 
 ---
 
-## 📜 Certificate & Enrollment  
-- Free audit via OpenCourseWare or edX  
-- Verified certificate (~USD 199) via edX :contentReference[oaicite:7]{index=7}  
-- Professional certificate and academic credit available:  
-  - HarvardX edX “Web” track (certification)  
-  - Harvard Extension School  
-  - Harvard Summer School :contentReference[oaicite:8]{index=8}
+## 📜 Certificate of Completion
+
+[🔗 View My CS50W Certificate](cs50w-certificate.pdf)
 
 ---
 
-## 🔗 How to Take This Course  
-Access is open to anyone via OCW or edX. Weekly workflow (9 lectures + projects):  
-1. **Watch lecture**  
-2. **Submit project(s)**  
-3. **Complete final capstone project**  
-(Embedded Slack, Q&A communities, etc.) :contentReference[oaicite:9]{index=9}
+## 🔗 Official Resources
+
+- [Course Website](https://cs50.harvard.edu/web)  
+- [Submit Projects on edX](https://cs50.edx.org/web)  
+- [CS50 YouTube Channel](https://www.youtube.com/cs50)  
+- [Join the CS50 Discord](https://discord.gg/cs50)
 
 ---
 
-## 🔗 Official Resources  
-- Harvard OCW / course site: [cs50.harvard.edu/web](https://cs50.harvard.edu/web) :contentReference[oaicite:11]{index=11}  
-- edX Verified Enrollment: **HarvardX CS50’s Web** :contentReference[oaicite:12]{index=12}  
-- Academic credit options via Harvard Extension & Summer School :contentReference[oaicite:13]{index=13}
+## 🏁 Reflection
 
----
-
-## 🏁 Reflection  
-Learners describe CS50W as **comprehensive**, **challenging**, and **highly rewarding**—especially for its real‑world applications and full‑stack depth.  
-Some note heavier workload (10–20 hours/week on projects) and fragmentation in discussion forums. :contentReference[oaicite:10]{index=10}
+CS50W challenged me to think like a professional developer. Each project pushed my skills in design, architecture, and coding. I now feel equipped to build and deploy full-stack applications with modern tools. This course was a vital step forward in my journey as a developer.
 
 ---
