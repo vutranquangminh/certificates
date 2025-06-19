@@ -1,4 +1,4 @@
-# **🌐 Fullstack Developer Path – Scrimba**
+# **🎓 Fullstack Developer Path – Scrimba**
 
 This repository showcases my completion of the **Fullstack Developer Path** on **Scrimba**, a modern, interactive learning platform focused on building hireable skills for aspiring fullstack developers using the JavaScript ecosystem.
 

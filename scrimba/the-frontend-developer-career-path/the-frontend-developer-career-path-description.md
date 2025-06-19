@@ -1,4 +1,4 @@
-# **💻 Frontend Developer Career Path – Scrimba**
+# **🎓 Frontend Developer Career Path – Scrimba**
 
 This repository showcases my completion of the **Frontend Developer Career Path** on **Scrimba**, an interactive learning platform designed to help aspiring developers become job-ready through project-based and hands-on coding.
 
