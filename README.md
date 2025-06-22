@@ -32,7 +32,10 @@ Scrimba is a modern, interactive learning platform tailored for developers. I co
   A hands-on curriculum designed to prepare learners for professional frontend roles. It covered HTML, CSS, Flexbox, Grid, JavaScript (ES6+), DOM manipulation, asynchronous programming, React, accessibility, version control with Git, and building deployable projects.
 
 - [The Fullstack Developer Path](certificates/the-fullstack-developer-path/scrimba-fullstack-certificate.pdf)  
-  A complete, project-based program aimed at preparing job-ready fullstack developers within 6–12 months. This intensive 100+ hour curriculum covered both frontend and backend technologies using modern JavaScript tools and frameworks. Topics included HTML, CSS, JavaScript, React, Node.js, Express.js, SQL, Supabase, and Next.js. It also integrated TypeScript, testing fundamentals, UI/UX practices, and even AI engineering with hands-on projects in RAG and vector databases. The path featured over a dozen portfolio projects and hundreds of interactive coding challenges.
+  A project-based program covering HTML, CSS, JavaScript, React, Node.js, Express, SQL, Supabase, and Next.js. Included TypeScript, testing, UI/UX, and AI engineering with hands-on RAG projects and vector databases.
+
+- [The AI Engineer Path](certificates/the-ai-engineer-path/scrimba-ai-engineer-certificate.pdf)  
+  A modern, project-based curriculum for building real-world AI apps using JavaScript. Covered GPT-4, DALL·E 3, prompt engineering, function calling, embeddings, RAG, LangChain.js, Hugging Face, and Cloudflare deployment through hands-on interactive lessons and AI-driven projects.
 
 ---
 
