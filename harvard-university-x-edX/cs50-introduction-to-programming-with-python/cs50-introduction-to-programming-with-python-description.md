@@ -41,7 +41,7 @@ This course strengthened my Python programming skills in areas such as:
 
 ## 📜 Certificate of Completion
 
-[🔗 View My CS50P Certificate](cs50p-certificate.pdf)
+[🔗 View My CS50P Certificate](cs50-introduction-to-programming-with-python-certificate.pdf)
 
 ---
 
