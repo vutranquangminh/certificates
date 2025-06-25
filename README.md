@@ -13,7 +13,7 @@ The CS50 program by Harvard is globally recognized for its academic rigor and re
 - [CS50’s Introduction to Programming with Scratch](harvard-university-x-edX/cs50-introduction-to-programming-with-scratch/cs50-introduction-to-programming-with-scratch-certificate.pdf)  
   An entry-level course that introduces fundamental programming concepts using the visual language Scratch, focusing on logic, loops, conditions, and abstraction.
 
-- [CS50’s Introduction to Programming with Python](harvard-university-x-edX/cs50-introduction-to-programming-with-python/cs50-python-certificate.pdf)  
+- [CS50’s Introduction to Programming with Python](harvard-university-x-edX/cs50-introduction-to-programming-with-python/cs50-introduction-to-programming-with-python-certificate.pdf)  
   A continuation into text-based programming using Python, covering functions, file I/O, libraries, error handling, and modular code design.
 
 - [CS50’s Introduction to Computer Science](harvard-university-x-edX/cs50-introduction-to-computer-science/cs50-introduction-to-computer-science-certificate.pdf)  
