@@ -39,6 +39,15 @@ Scrimba is a modern, interactive learning platform tailored for developers. I co
 
 ---
 
+## 📱 Meta Certificate
+
+Meta’s specialization programs on Coursera are designed to equip learners with in-demand skills through practical, project-based learning. I completed the following mobile development path:
+
+- [Meta React Native Specialization](certificates/meta-react-native-specialization/meta-react-native-certificate.pdf)  
+  A comprehensive 8-course program focused on cross-platform mobile app development using React Native. Covered core concepts including JavaScript, Git, React, navigation, REST APIs, SQLite, UI/UX design, and mobile deployment. The capstone project involved building and publishing a full-featured mobile app using best practices from the entire stack.
+
+---
+
 ## 🚀 My Learning Philosophy
 
 I believe in **lifelong learning** and taking a **project-based approach** to apply new skills. These certificates are more than just credentials—they represent practical experience, perseverance, and an eagerness to tackle complex technical challenges.
