@@ -28,14 +28,14 @@ The CS50 program by Harvard is globally recognized for its academic rigor and re
 
 Scrimba is a modern, interactive learning platform tailored for developers. I completed the following comprehensive career paths:
 
-- [The Frontend Developer Career Path](scrimba/the-frontend-developer-career-path/the-frontend-developer-career-path-certificate.pdf)  
-  A hands-on curriculum designed to prepare learners for professional frontend roles. It covered HTML, CSS, Flexbox, Grid, JavaScript (ES6+), DOM manipulation, asynchronous programming, React, accessibility, version control with Git, and building deployable projects.
+- [The AI Engineer Path](scrimba/the-ai-engineer-path/scrimba-ai-engineer-certificate.pdf)  
+  A modern, project-based curriculum for building real-world AI apps using JavaScript. Covered GPT-4, DALL·E 3, prompt engineering, function calling, embeddings, RAG, LangChain.js, Hugging Face, and Cloudflare deployment through hands-on interactive lessons and AI-driven projects.
 
-- [The Fullstack Developer Path](certificates/the-fullstack-developer-path/scrimba-fullstack-certificate.pdf)  
+- [The Fullstack Developer Path](scrimba/the-fullstack-developer-path/scrimba-fullstack-certificate.pdf)  
   A project-based program covering HTML, CSS, JavaScript, React, Node.js, Express, SQL, Supabase, and Next.js. Included TypeScript, testing, UI/UX, and AI engineering with hands-on RAG projects and vector databases.
 
-- [The AI Engineer Path](certificates/the-ai-engineer-path/scrimba-ai-engineer-certificate.pdf)  
-  A modern, project-based curriculum for building real-world AI apps using JavaScript. Covered GPT-4, DALL·E 3, prompt engineering, function calling, embeddings, RAG, LangChain.js, Hugging Face, and Cloudflare deployment through hands-on interactive lessons and AI-driven projects.
+- [The Frontend Developer Career Path](scrimba/the-frontend-developer-career-path/the-frontend-developer-career-path-certificate.pdf)  
+  A hands-on curriculum designed to prepare learners for professional frontend roles. It covered HTML, CSS, Flexbox, Grid, JavaScript (ES6+), DOM manipulation, asynchronous programming, React, accessibility, version control with Git, and building deployable projects.
 
 ---
 

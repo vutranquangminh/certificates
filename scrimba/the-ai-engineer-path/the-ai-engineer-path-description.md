@@ -39,7 +39,7 @@ Through interactive scrims and projects, I gained practical experience with:
 
 ## 📜 Certificate of Completion
 
-[🔗 View My AI Engineer Path Certificate](certificates/the-ai-engineer-path/scrimba-ai-engineer-certificate.pdf)
+[🔗 View My AI Engineer Path Certificate](the-ai-engineer-path-certificate.pdf)
 
 ---
 
