@@ -19,7 +19,7 @@ The CS50 program by Harvard is globally recognized for its academic rigor and re
 - [CS50’s Introduction to Computer Science](harvard-university-x-edX/cs50-introduction-to-computer-science/cs50-introduction-to-computer-science-certificate.pdf)  
   The flagship CS50 course, providing a deep dive into algorithms, data structures, memory, C programming, and the foundations of software engineering.
 
-- [CS50’s Web Programming with Python and JavaScript](harvard-university-x-edX/cs50-web-programming-with-python-and-javascript/cs50-web-certificate.pdf)  
+- [CS50’s Web Programming with Python and JavaScript](harvard-university-x-edX/cs50-web-programming-with-python-and-javascript/cs50-web-programming-with-python-and-javascript-certificate.pdf)  
   An advanced course focusing on full-stack web development, including Flask, HTML, CSS, JavaScript, SQL, APIs, and modern web technologies such as Django and React.
 
 ---
@@ -31,7 +31,7 @@ Scrimba is a modern, interactive learning platform tailored for developers. I co
 - [The AI Engineer Path](scrimba/the-ai-engineer-path/the-ai-engineer-path-certificate.pdf)  
   A modern, project-based curriculum for building real-world AI apps using JavaScript. Covered GPT-4, DALL·E 3, prompt engineering, function calling, embeddings, RAG, LangChain.js, Hugging Face, and Cloudflare deployment through hands-on interactive lessons and AI-driven projects.
 
-- [The Fullstack Developer Path](scrimba/the-fullstack-developer-path/scrimba-fullstack-certificate.pdf)  
+- [The Fullstack Developer Path](scrimba/the-fullstack-developer-path/the-fullstack-developer-certificate.pdf)  
   A project-based program covering HTML, CSS, JavaScript, React, Node.js, Express, SQL, Supabase, and Next.js. Included TypeScript, testing, UI/UX, and AI engineering with hands-on RAG projects and vector databases.
 
 - [The Frontend Developer Career Path](scrimba/the-frontend-developer-career-path/the-frontend-developer-career-path-certificate.pdf)  
@@ -43,7 +43,10 @@ Scrimba is a modern, interactive learning platform tailored for developers. I co
 
 Meta’s specialization programs on Coursera are designed to equip learners with in-demand skills through practical, project-based learning. I completed the following mobile development path:
 
-- [Meta React Native Specialization](certificates/meta-react-native-specialization/meta-react-native-certificate.pdf)  
+- [Meta React Specialization](meta/meta-react-specialization/meta-react-certificate.pdf)
+A comprehensive 5-course program focused on building dynamic and responsive web applications using React. Covered essential front-end development topics including modern JavaScript (ES6+), React fundamentals, JSX, component lifecycle, hooks, state management, routing, testing, and performance optimization. The capstone project involved designing and developing a fully functional single-page application using industry best practices.
+
+- [Meta React Native Specialization](meta/meta-react-native-specialization/meta-react-native-certificate.pdf)  
   A comprehensive 8-course program focused on cross-platform mobile app development using React Native. Covered core concepts including JavaScript, Git, React, navigation, REST APIs, SQLite, UI/UX design, and mobile deployment. The capstone project involved building and publishing a full-featured mobile app using best practices from the entire stack.
 
 ---
