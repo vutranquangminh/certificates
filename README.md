@@ -28,7 +28,7 @@ The CS50 program by Harvard is globally recognized for its academic rigor and re
 
 Scrimba is a modern, interactive learning platform tailored for developers. I completed the following comprehensive career paths:
 
-- [The AI Engineer Path](scrimba/the-ai-engineer-path/the-ai-engineer-path-description.pdf)  
+- [The AI Engineer Path](scrimba/the-ai-engineer-path/the-ai-engineer-path-certificate.pdf)  
   A modern, project-based curriculum for building real-world AI apps using JavaScript. Covered GPT-4, DALL·E 3, prompt engineering, function calling, embeddings, RAG, LangChain.js, Hugging Face, and Cloudflare deployment through hands-on interactive lessons and AI-driven projects.
 
 - [The Fullstack Developer Path](scrimba/the-fullstack-developer-path/scrimba-fullstack-certificate.pdf)  
