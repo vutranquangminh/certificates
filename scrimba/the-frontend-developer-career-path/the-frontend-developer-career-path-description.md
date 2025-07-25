@@ -40,7 +40,7 @@ Throughout the path, I gained hands-on experience with:
 
 ## 📜 Certificate of Completion
 
-[🔗 View My Frontend Developer Career Path Certificate](certificates/the-frontend-developer-career-path/scrimba-frontend-certificate.pdf)
+[🔗 View My Frontend Developer Career Path Certificate](certificates/the-frontend-developer-career-path/the-frontend-developer-career-path-certificate.pdf)
 
 ---
 
