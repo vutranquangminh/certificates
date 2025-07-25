@@ -24,6 +24,18 @@ The CS50 program by Harvard is globally recognized for its academic rigor and re
 
 ---
 
+## 📱 Meta Certificate
+
+Meta’s specialization programs on Coursera are designed to equip learners with in-demand skills through practical, project-based learning. I completed the following mobile development path:
+
+- [Meta React Specialization](meta/meta-react-specialization/meta-react-certificate.pdf)
+A comprehensive 5-course program focused on building dynamic and responsive web applications using React. Covered essential front-end development topics including modern JavaScript (ES6+), React fundamentals, JSX, component lifecycle, hooks, state management, routing, testing, and performance optimization. The capstone project involved designing and developing a fully functional single-page application using industry best practices.
+
+- [Meta React Native Specialization](meta/meta-react-native-specialization/meta-react-native-certificate.pdf)  
+  A comprehensive 8-course program focused on cross-platform mobile app development using React Native. Covered core concepts including JavaScript, Git, React, navigation, REST APIs, SQLite, UI/UX design, and mobile deployment. The capstone project involved building and publishing a full-featured mobile app using best practices from the entire stack.
+
+---
+
 ## 💻 Scrimba Certificate
 
 Scrimba is a modern, interactive learning platform tailored for developers. I completed the following comprehensive career paths:
@@ -39,15 +51,20 @@ Scrimba is a modern, interactive learning platform tailored for developers. I co
 
 ---
 
-## 📱 Meta Certificate
 
-Meta’s specialization programs on Coursera are designed to equip learners with in-demand skills through practical, project-based learning. I completed the following mobile development path:
+## 🌐 VSTEP English Proficiency Certificate (Level B2 – CEFR)
 
-- [Meta React Specialization](meta/meta-react-specialization/meta-react-certificate.pdf)
-A comprehensive 5-course program focused on building dynamic and responsive web applications using React. Covered essential front-end development topics including modern JavaScript (ES6+), React fundamentals, JSX, component lifecycle, hooks, state management, routing, testing, and performance optimization. The capstone project involved designing and developing a fully functional single-page application using industry best practices.
+The **Vietnamese Standardized Test of English Proficiency (VSTEP)** is a nationally recognized English proficiency examination developed by the Ministry of Education and Training in Vietnam. It is aligned with the **Common European Framework of Reference for Languages (CEFR)** and widely used for academic, professional, and civil service qualification purposes.
 
-- [Meta React Native Specialization](meta/meta-react-native-specialization/meta-react-native-certificate.pdf)  
-  A comprehensive 8-course program focused on cross-platform mobile app development using React Native. Covered core concepts including JavaScript, Git, React, navigation, REST APIs, SQLite, UI/UX design, and mobile deployment. The capstone project involved building and publishing a full-featured mobile app using best practices from the entire stack.
+- [VSTEP Level 4 – B2 Certificate](vstep/vstep-b2-certificate.pdf)  
+  A comprehensive English proficiency assessment covering all four language skills: Listening, Reading, Writing, and Speaking. The B2 level indicates upper-intermediate command of the language, capable of handling complex tasks in academic and professional contexts.
+
+  - **Listening:** Understanding extended speech and lectures, following complex discussions.  
+  - **Reading:** Interpreting detailed written content, evaluating arguments in articles and reports.  
+  - **Writing:** Producing clear, well-structured essays and formal correspondence.  
+  - **Speaking:** Engaging fluently in conversations, presenting viewpoints, and defending ideas effectively.
+
+This certificate reflects my ability to use English independently and confidently in real-world communication, meeting the standard required by Vietnamese universities for graduation and by employers for professional roles.
 
 ---
 
