@@ -6,6 +6,19 @@ These certificates reflect my continuous effort to build a strong foundation in 
 
 ---
 
+## 🎓 University of Greenwich Academic Awards
+
+As a final-year student in the **BSc (Hons) Computing** programme at the **University of Greenwich (UK)**, I have consistently demonstrated academic excellence and dedication to professional development throughout my degree journey. Below are the official academic recognitions awarded by the university:
+
+- [Top Student Certificate – Spring 2025 (COMP1643)](university-of-greenwich/top-student-spring2025-comp1643.pdf)  
+  Awarded for outstanding academic achievement in **COMP1643 – Information and Content Management** during the **Spring 2025** semester. This recognition highlights my performance among the top students in the cohort, demonstrating strong understanding of web content systems, metadata, and structured information management.
+
+- 🎓 **Bachelor of Science (Honours) Degree – Computing**  
+  *Expected: March 2026*  
+  Upon successful completion of the entire undergraduate curriculum, I will be officially awarded the BSc (Hons) degree by the University of Greenwich. This qualification reflects a comprehensive understanding of core computing concepts, practical programming skills, and ethical awareness in software development.
+
+---
+
 ## 📚 Harvard CS50 Certificates
 
 The CS50 program by Harvard is globally recognized for its academic rigor and real-world relevance. Through the following courses, I have explored a wide range of core computer science concepts and programming paradigms:
@@ -63,8 +76,6 @@ The **Vietnamese Standardized Test of English Proficiency (VSTEP)** is a nationa
   - **Reading:** Interpreting detailed written content, evaluating arguments in articles and reports.  
   - **Writing:** Producing clear, well-structured essays and formal correspondence.  
   - **Speaking:** Engaging fluently in conversations, presenting viewpoints, and defending ideas effectively.
-
-This certificate reflects my ability to use English independently and confidently in real-world communication, meeting the standard required by Vietnamese universities for graduation and by employers for professional roles.
 
 ---
 
