@@ -1,8 +1,9 @@
+
 # 🎓 My Certificate Portfolio
 
-Welcome to my professional certificate portfolio. This repository serves as a curated archive of the programming and web development certifications I have earned through rigorous self-paced study with world-renowned institutions such as **Harvard University** and **Scrimba**.
+Welcome to my professional certificate portfolio. This repository serves as a curated archive of the programming, AI, and web development certifications I have earned through rigorous self-paced study and instructor-led workshops with world-renowned institutions such as **Harvard University**, **NVIDIA**, and **Scrimba**.
 
-These certificates reflect my continuous effort to build a strong foundation in computer science, deepen my knowledge of programming languages, and sharpen my practical development skills across both frontend and backend technologies.
+These certificates reflect my continuous effort to build a strong foundation in computer science, deepen my knowledge of AI and programming languages, and sharpen my practical development skills across both frontend, backend, and applied machine learning technologies.
 
 ---
 
@@ -16,6 +17,17 @@ As a final-year student in the **BSc (Hons) Computing** programme at the **Unive
 - 🎓 **Bachelor of Science (Honours) Degree – Computing**  
   *Expected: March 2026*  
   Upon successful completion of the entire undergraduate curriculum, I will be officially awarded the BSc (Hons) degree by the University of Greenwich. This qualification reflects a comprehensive understanding of core computing concepts, practical programming skills, and ethical awareness in software development.
+
+---
+
+## 🤖 NVIDIA Deep Learning Institute Certificate
+
+The **NVIDIA Deep Learning Institute (DLI)** delivers world-class, hands-on training in AI and accelerated computing. I completed the following workshop focused on applying AI to real-world industrial maintenance scenarios:
+
+- [Applications of AI for Predictive Maintenance](nvidia/applications-of-ai-for-predictive-maintenance-certificate.pdf)  
+  A practical, full-day workshop focused on applying GPU-accelerated AI models to predict equipment failures, optimize maintenance schedules, and minimize downtime. The training covered time-series data processing, anomaly detection, and model development using RAPIDS cuDF, XGBoost (CPU & GPU), Keras, TensorFlow, and Autoencoders. Key outcomes included mastering the preprocessing and analysis of sensor data for predictive modeling, building classification models with XGBoost and LSTM networks for failure prediction and remaining useful life estimation, implementing autoencoders for unsupervised anomaly detection, comparing CPU and GPU performance for large-scale datasets, and applying AI workflows to map anomalies to real-world equipment failure modes.
+
+
 
 ---
 
@@ -41,11 +53,11 @@ The CS50 program by Harvard is globally recognized for its academic rigor and re
 
 Meta’s specialization programs on Coursera are designed to equip learners with in-demand skills through practical, project-based learning. I completed the following mobile development path:
 
-- [Meta React Specialization](meta/meta-react-specialization/meta-react-certificate.pdf)
-A comprehensive 5-course program focused on building dynamic and responsive web applications using React. Covered essential front-end development topics including modern JavaScript (ES6+), React fundamentals, JSX, component lifecycle, hooks, state management, routing, testing, and performance optimization. The capstone project involved designing and developing a fully functional single-page application using industry best practices.
+- [Meta React Specialization](meta/meta-react-specialization/meta-react-certificate.pdf)  
+  A comprehensive 5-course program focused on building dynamic and responsive web applications using React. Covered modern JavaScript (ES6+), JSX, component lifecycle, hooks, state management, routing, testing, and performance optimization. The capstone project involved designing and developing a fully functional single-page application using industry best practices.
 
 - [Meta React Native Specialization](meta/meta-react-native-specialization/meta-react-native-certificate.pdf)  
-  A comprehensive 8-course program focused on cross-platform mobile app development using React Native. Covered core concepts including JavaScript, Git, React, navigation, REST APIs, SQLite, UI/UX design, and mobile deployment. The capstone project involved building and publishing a full-featured mobile app using best practices from the entire stack.
+  An 8-course program focused on cross-platform mobile app development using React Native. Covered JavaScript, Git, React, navigation, REST APIs, SQLite, UI/UX design, and mobile deployment. The capstone project involved building and publishing a full-featured mobile app.
 
 ---
 
@@ -54,36 +66,28 @@ A comprehensive 5-course program focused on building dynamic and responsive web 
 Scrimba is a modern, interactive learning platform tailored for developers. I completed the following comprehensive career paths:
 
 - [The AI Engineer Path](scrimba/the-ai-engineer-path/the-ai-engineer-path-certificate.pdf)  
-  A modern, project-based curriculum for building real-world AI apps using JavaScript. Covered GPT-4, DALL·E 3, prompt engineering, function calling, embeddings, RAG, LangChain.js, Hugging Face, and Cloudflare deployment through hands-on interactive lessons and AI-driven projects.
+  Project-based curriculum for building real-world AI apps using JavaScript. Covered GPT-4, DALL·E 3, prompt engineering, embeddings, RAG, LangChain.js, Hugging Face, and Cloudflare deployment.
 
 - [The Fullstack Developer Path](scrimba/the-fullstack-developer-path/the-fullstack-developer-certificate.pdf)  
-  A project-based program covering HTML, CSS, JavaScript, React, Node.js, Express, SQL, Supabase, and Next.js. Included TypeScript, testing, UI/UX, and AI engineering with hands-on RAG projects and vector databases.
+  Covered HTML, CSS, JavaScript, React, Node.js, Express, SQL, Supabase, Next.js, TypeScript, testing, UI/UX, and AI engineering with hands-on projects.
 
 - [The Frontend Developer Career Path](scrimba/the-frontend-developer-career-path/the-frontend-developer-career-path-certificate.pdf)  
-  A hands-on curriculum designed to prepare learners for professional frontend roles. It covered HTML, CSS, Flexbox, Grid, JavaScript (ES6+), DOM manipulation, asynchronous programming, React, accessibility, version control with Git, and building deployable projects.
+  Prepared for professional frontend roles, covering HTML, CSS, Flexbox, Grid, JavaScript (ES6+), DOM manipulation, async programming, React, accessibility, Git, and project deployment.
 
 ---
 
-
 ## 🌐 VSTEP English Proficiency Certificate (Level B2 – CEFR)
 
-The **Vietnamese Standardized Test of English Proficiency (VSTEP)** is a nationally recognized English proficiency examination developed by the Ministry of Education and Training in Vietnam. It is aligned with the **Common European Framework of Reference for Languages (CEFR)** and widely used for academic, professional, and civil service qualification purposes.
+The **Vietnamese Standardized Test of English Proficiency (VSTEP)** is a nationally recognized English proficiency examination aligned with the **Common European Framework of Reference for Languages (CEFR)**.
 
 - [VSTEP Level 4 – B2 Certificate](vstep/vstep-b2-certificate.pdf)  
-  A comprehensive English proficiency assessment covering all four language skills: Listening, Reading, Writing, and Speaking. The B2 level indicates upper-intermediate command of the language, capable of handling complex tasks in academic and professional contexts.
-
-  - **Listening:** Understanding extended speech and lectures, following complex discussions.  
-  - **Reading:** Interpreting detailed written content, evaluating arguments in articles and reports.  
-  - **Writing:** Producing clear, well-structured essays and formal correspondence.  
-  - **Speaking:** Engaging fluently in conversations, presenting viewpoints, and defending ideas effectively.
+  Assessed Listening, Reading, Writing, and Speaking skills at an upper-intermediate level suitable for academic and professional contexts.
 
 ---
 
 ## 🚀 My Learning Philosophy
 
-I believe in **lifelong learning** and taking a **project-based approach** to apply new skills. These certificates are more than just credentials—they represent practical experience, perseverance, and an eagerness to tackle complex technical challenges.
-
-I strive to use these skills to contribute to impactful projects, collaborate with like-minded developers, and continuously grow in the field of software development.
+I believe in **lifelong learning** and a **project-based approach** to applying new skills. These certificates represent practical experience, perseverance, and readiness to tackle complex technical challenges. I aim to contribute to impactful projects, collaborate with like-minded developers, and grow continuously in the fields of computing, AI, and software engineering.
 
 ---
 
