@@ -1,4 +1,3 @@
-
 # 🎓 My Certificate Portfolio
 
 Welcome to my professional certificate portfolio. This repository serves as a curated archive of the programming, AI, and web development certifications I have earned through rigorous self-paced study and instructor-led workshops with world-renowned institutions such as **Harvard University**, **NVIDIA**, and **Scrimba**.
@@ -24,7 +23,7 @@ As a final-year student in the **BSc (Hons) Computing** programme at the **Unive
 
 The **NVIDIA Deep Learning Institute (DLI)** delivers world-class, hands-on training in AI and accelerated computing. I completed the following workshop focused on applying AI to real-world industrial maintenance scenarios:
 
-- [Applications of AI for Predictive Maintenance](nvidia/applications-of-ai-for-predictive-maintenance-certificate.pdf)  
+- [Applications of AI for Predictive Maintenance](nvidia/applications-of-ai-for-predictive-maintenance/applications-of-ai-for-predictive-maintenance-certificate.pdf)  
   A practical, full-day workshop focused on applying GPU-accelerated AI models to predict equipment failures, optimize maintenance schedules, and minimize downtime. The training covered time-series data processing, anomaly detection, and model development using RAPIDS cuDF, XGBoost (CPU & GPU), Keras, TensorFlow, and Autoencoders. Key outcomes included mastering the preprocessing and analysis of sensor data for predictive modeling, building classification models with XGBoost and LSTM networks for failure prediction and remaining useful life estimation, implementing autoencoders for unsupervised anomaly detection, comparing CPU and GPU performance for large-scale datasets, and applying AI workflows to map anomalies to real-world equipment failure modes.
 
 
