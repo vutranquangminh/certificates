@@ -67,7 +67,7 @@ Scrimba is a modern, interactive learning platform tailored for developers. I co
 - [The AI Engineer Path](scrimba/the-ai-engineer-path/the-ai-engineer-path-certificate.pdf)  
   Project-based curriculum for building real-world AI apps using JavaScript. Covered GPT-4, DALL·E 3, prompt engineering, embeddings, RAG, LangChain.js, Hugging Face, and Cloudflare deployment.
 
-- [The Fullstack Developer Path](scrimba/the-fullstack-developer-path/the-fullstack-developer-certificate.pdf)  
+- [The Fullstack Developer Path](scrimba/the-fullstack-developer-path/the-fullstack-developer-path-certificate.pdf)  
   Covered HTML, CSS, JavaScript, React, Node.js, Express, SQL, Supabase, Next.js, TypeScript, testing, UI/UX, and AI engineering with hands-on projects.
 
 - [The Frontend Developer Career Path](scrimba/the-frontend-developer-career-path/the-frontend-developer-career-path-certificate.pdf)  
