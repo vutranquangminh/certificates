@@ -41,7 +41,7 @@ Throughout the path, I gained hands-on experience with:
 
 ## 📜 Certificate of Completion
 
-[🔗 View My Fullstack Developer Path Certificate](scrimba-fullstack-path-certificate.pdf)
+[🔗 View My Fullstack Developer Path Certificate](the-fullstack-developer-path-certificate.pdf)
 
 ---
 
